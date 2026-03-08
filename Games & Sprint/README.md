@@ -1,99 +1,97 @@
-# 🎮 Google Cloud Arcade Games
+# 🎮 Google Cloud Arcade – Games & Sprint
 
 ## ⚠️ Disclaimer ⚠️
 
 **Educational Purpose Only:**  
-This repository, guide, and any scripts shared here are provided strictly for **educational purposes** to help learners understand Google Cloud labs and cloud technologies better.
+This repository, guides, and resources are provided strictly for **educational purposes** to help learners understand Google Cloud labs and develop real cloud skills.
 
-Before using any scripts or automation, please **review and understand the code carefully** and familiarize yourself with the Google Cloud services involved.
+Before using any scripts or automation, please **review and understand the code carefully** and familiarize yourself with the Google Cloud services used in the labs.
 
 **Terms Compliance:**  
-Always ensure compliance with **Qwiklabs' Terms of Service** and **Google Cloud policies**.  
-The goal of this repository is to **enhance your learning experience and build real cloud skills — not to bypass or misuse the platform.**
+Always follow **Qwiklabs' Terms of Service** and **Google Cloud policies**.  
+The purpose of this repository is to **support learning and skill development — not to bypass platform rules or misuse the lab environment.**
 
 ---
 
-# 🕹️ What Are Google Cloud Arcade Games?
+# 🎮 Arcade Games
 
-Google Cloud Arcade Games are **monthly cloud learning challenges** designed to help learners build hands-on experience with Google Cloud services.
+Google Cloud Arcade Games are **monthly cloud learning challenges** released as part of the Arcade program.
 
-Each game contains a set of **hands-on labs** where participants perform real cloud tasks such as:
+Each game contains a set of **hands-on labs** where participants perform real tasks using Google Cloud services such as:
 
-- Creating cloud resources
-- Deploying applications
-- Configuring services
-- Managing infrastructure
+• Deploying applications  
+• Configuring cloud infrastructure  
+• Managing compute resources  
+• Working with storage and networking services  
 
-By completing these labs, participants **earn Arcade points** and progress through reward tiers.
-
----
-
-# 🎮 Arcade Game Structure
-
-Each month the Arcade program releases several types of games.
+Completing these labs helps participants **earn Arcade points and progress through reward tiers.**
 
 <p align="center">
 <img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Arcade%20Games.png?raw=true" width="100%">
 </p>
 
-The main game categories include:
+---
+
+## 🧩 Types of Arcade Games
+
+Each month may include several game categories:
 
 ### 🎯 Arcade Adventure
-Formerly known as **Level 1** challenges.
+Formerly known as **Level 1**
 
 • Beginner-friendly labs  
-• Focus on core Google Cloud concepts  
-• Usually contains **12 labs per game**
+• Focus on cloud fundamentals  
+• Usually **12 labs = 1 point**
 
 ---
 
 ### 🚀 Arcade Voyage
-Intermediate learning challenges.
+Intermediate level cloud challenges.
 
-• Builds on basic concepts  
-• Introduces more advanced cloud services  
-• Typically includes **12 labs**
+• Builds on foundational skills  
+• Introduces additional Google Cloud services  
+• Typically **12 labs = 1 point**
 
 ---
 
 ### 🏔️ Arcade Trail
-Advanced Arcade game category.
+Advanced-level challenges.
 
-• Covers complex cloud architecture concepts  
-• More detailed configuration tasks  
-• Usually **8 labs per game**
+• Covers deeper cloud architecture concepts  
+• More complex lab environments  
+• Usually **8 labs = 1 point**
 
 ---
 
 ### 🏕️ Base Camp
-A structured set of labs designed to strengthen **foundational Google Cloud skills**.
+Designed to reinforce **core cloud fundamentals**.
 
-• Reinforces cloud fundamentals  
-• Typically **12 labs**
+• Structured foundational labs  
+• Usually **12 labs = 1 point**
 
 ---
 
 ### 🎓 Certification Zone
-Focused on preparing participants for **Google Cloud Certification learning paths**.
+Focused on certification-related learning paths.
 
-• Certification-related labs  
-• Usually **8 labs**
+• Helps prepare for Google Cloud certifications  
+• Usually **8 labs = 1 point**
 
 ---
 
 ### 🧪 Special Games
-Occasional bonus games released during the program.
+Occasionally released bonus games.
 
-• May contain **specialized labs**
-• Often provide **extra points**
+• May include unique lab challenges  
+• Often worth **extra points**
 
 ---
 
 # ⚡ Arcade Sprint
 
-Arcade Sprint is a **weekly lab challenge** that replaces the earlier trivia format.
+Arcade Sprint is a **weekly challenge system** designed to keep learners active throughout the month.
 
-Participants complete a small number of labs every week to earn additional points.
+Instead of completing a large set of labs at once, participants complete **small weekly lab tasks**.
 
 <p align="center">
 <img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Arcade%20Sprint.png?raw=true" width="100%">
@@ -101,46 +99,26 @@ Participants complete a small number of labs every week to earn additional point
 
 Typical sprint structure:
 
-• Week 1 → 4 labs = 1 point  
-• Week 2 → 4 labs = 1 point  
-• Week 3 → 4 labs = 1 point  
-• Week 4 → 4 labs = 1 point  
+• Week 1 → 4 Labs = 1 Point  
+• Week 2 → 4 Labs = 1 Point  
+• Week 3 → 4 Labs = 1 Point  
+• Week 4 → 4 Labs = 1 Point  
+
+This allows participants to earn **consistent points every week.**
 
 ---
 
-# 📊 Arcade Points System
+# 📊 Why Games & Sprint Matter
 
-Points earned from games determine your **reward tier eligibility**.
+Arcade Games and Sprint challenges help participants:
 
-<p align="center">
-<img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Point%20System.png?raw=true" width="100%">
-</p>
+✔ Gain **hands-on experience with Google Cloud services**  
+✔ Build practical **cloud architecture knowledge**  
+✔ Improve problem-solving skills through guided labs  
+✔ Earn **Arcade points and rewards**  
+✔ Progress toward **higher reward tiers**
 
-Typical point structure:
-
-| Game Type | Labs Required | Points |
-|-----------|---------------|--------|
-| Arcade Adventure | 12 Labs | 1 Point |
-| Arcade Voyage | 12 Labs | 1 Point |
-| Arcade Trail | 8 Labs | 1 Point |
-| Base Camp | 12 Labs | 1 Point |
-| Certification Zone | 8 Labs | 1 Point |
-| Special Game | 8 Labs | 2 Points |
-| Sprint (Weekly) | 4 Labs | 1 Point |
-
----
-
-# 🧠 Why Arcade Games Matter
-
-Arcade Games are designed to help you:
-
-✔ Build **hands-on cloud experience**  
-✔ Understand real **Google Cloud services**  
-✔ Earn **skill badges**  
-✔ Prepare for **cloud certifications**  
-✔ Build a **strong cloud portfolio**
-
-This program rewards **consistency and structured learning**.
+Consistency is the key to succeeding in the Arcade program.
 
 ---
 
@@ -154,7 +132,7 @@ Access the official Arcade platform here:
 
 # 🌐 Connect & Community
 
-Stay connected for **Arcade updates, guides, and discussions**.
+Stay connected for **Arcade updates, guides, and community discussions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/ayushh-sharmaa/)
 
