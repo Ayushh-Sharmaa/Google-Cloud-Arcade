@@ -6,48 +6,73 @@
 ![ViewCount](https://views.whatilearened.today/views/github/AyushSharma/Arcade-Google-Cloud-Labs.svg?cache=remove)
 ![Made by Ayush Sharma](https://img.shields.io/badge/Made%20By-Ayush%20Sharma-orange)
 
-<br>
+---
 
-Google Cloud Skills Boost is an online platform designed to help you develop skills in Google Cloud technologies. It offers a variety of learning resources that support both beginners and experienced professionals.
+## ⚠️ Disclaimer ⚠️
 
-- You can learn through in-depth video courses that cover topics from basic concepts to advanced Google Cloud solutions. The platform also provides hands-on labs where you can practice using real Google Cloud resources and gain practical experience.
+**Educational Purpose Only:**  
+This repository, guide, and scripts are provided strictly for **educational purposes** to help learners understand Google Cloud lab environments and strengthen their cloud skills.
 
-- By completing courses and labs, you can earn skill badges that showcase your expertise to potential employers. There are also structured learning paths that guide you toward specific goals, making it easier to learn in a systematic way. Additionally, Google Cloud offers professional certifications that validate your skills and help you advance your career.
+Before using any script or solution, please **review the code carefully** and understand the Google Cloud services involved.
 
-- Using Google Cloud Skills Boost has several advantages. Much of the content is available for free, and you can learn at your own pace according to your schedule. The platform is regularly updated with the latest technologies and best practices, and Google Cloud certifications are widely recognized by employers in the tech industry.
+**Terms Compliance:**  
+Always ensure compliance with **Qwiklabs' Terms of Service** and **YouTube's Community Guidelines**.  
+The goal of this repository is to **enhance learning and understanding of cloud technologies**, not to bypass or misuse any learning platform.
+
+---
+
+## ☁️ About Google Cloud Skills Boost
+
+**Google Cloud Skills Boost** is an online learning platform that helps individuals develop practical skills in **Google Cloud technologies** through structured courses, labs, and real cloud environments.
+
+It provides a wide range of learning materials designed for both **beginners and experienced professionals**.
+
+Key learning components include:
+
+- 📚 **Video Courses** – Learn cloud concepts from beginner to advanced levels.
+- 🧪 **Hands-on Labs** – Work directly with real Google Cloud resources.
+- 🏅 **Skill Badges** – Demonstrate your expertise by completing guided labs.
+- 🧭 **Learning Paths** – Structured programs that guide learners toward specific goals.
+- 🎓 **Professional Certifications** – Industry-recognized credentials validating cloud expertise.
+
+---
 
 ## 🚀 Benefits of Google Cloud Skills Boost
 
-- **Free Learning Resources** – Many courses and labs are available for free.
+Using Google Cloud Skills Boost provides several advantages for learners:
+
+- **Free Learning Resources** – Many labs and courses are available at no cost.
 - **Flexible Learning** – Learn anytime at your own pace.
-- **Latest Technologies** – Content is regularly updated with new Google Cloud tools and best practices.
-- **Industry Recognition** – Google Cloud certifications are highly valued by employers.
+- **Updated Content** – Material is continuously updated with the latest cloud technologies.
+- **Hands-on Experience** – Practice using real Google Cloud environments.
+- **Industry Recognition** – Google Cloud certifications are valued by employers worldwide.
 
 ---
 
 ## 🎁 Earn Exclusive Google Cloud Swags
 
-Participants can also earn exciting swags by completing selected Google Cloud labs, skill badges, and challenges. These swags may include goodies like **T-shirts, stickers, certificates, and other exclusive rewards.**
+Participants can earn **exclusive swags and rewards** by completing selected Google Cloud labs, skill badges, and Arcade challenges.
 
-They not only make learning more fun but also recognize your effort and achievements in Google Cloud learning.
+Rewards may include:
+
+- 👕 T-shirts  
+- 🎟 Certificates  
+- 🧷 Stickers  
+- 🎁 Special Arcade merchandise
+
+These rewards not only make learning fun but also recognize your **dedication and achievements in cloud learning**.
 
 <p align="center">
-  <img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Swags.png?raw=true" alt="Swags" width="100%">
+<img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Swags.png?raw=true" alt="Google Cloud Swags" width="100%">
 </p>
-
----
-
-## ⚠️ Disclaimer
-
-> **Google Cloud** may update/remove badges, labs, or assessment paths anytime.  
-> Please respect the work and avoid copying content without proper credit.
 
 ---
 
 ## 💫 If you find this useful...
 
-- Give this repo a ⭐  
-- Share with your learning groups  
+- ⭐ **Star this repository**
+- 📢 Share it with your learning communities
+- 🤝 Help others learn Google Cloud
 
 ---
 
