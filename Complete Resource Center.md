@@ -141,24 +141,6 @@ Many Google Cloud labs include a **Check My Progress** button that automatically
 
 ---
 
-# 📊 Arcade Progress Dashboard
-
-The Arcade dashboard allows participants to monitor their progress, track earned points, and check their current position in the reward tiers.
-
-<p align="center">
-<img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Backog-light.png?raw=true" width="100%">
-</p>
-
-<p align="center">
-<img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Backog-dark.png?raw=true" width="100%">
-</p>
-
-<p align="center">
-<img src="https://github.com/Ayushh-Sharmaa/Arcade-Images/blob/main/Backog-dashboard.png?raw=true" width="100%">
-</p>
-
----
-
 # 📧 Official Support Contacts
 
 ## 🆘 Arcade Support Team
